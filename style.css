@@ -119,7 +119,7 @@ body {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   .card-wrapper {
     width: 350px;
     padding: 1rem;
@@ -131,6 +131,9 @@ body {
 
     p {
       font-size: 1rem;
+    }
+    td {
+      font-weight: normal;
     }
   }
 
