@@ -11,7 +11,7 @@ Desenvolvi uma calculadora de IMC em JavaScript, HTML e CSS para praticar minhas
 
 ### Links
 
-- Figma URL: [https://www.frontendmentor.io/solutions/qr-code-component-KpSxTG9MZ0](https://www.figma.com/design/W5optFAm9YJRCurmaErviu/%5BMini-projeto%5D-Calculadora-de-IMC-(Community)?node-id=11-196&t=dnFAIbpYVCoEW4WY-0)
+- Figma URL: https://www.figma.com/design/W5optFAm9YJRCurmaErviu/%5BMini-projeto%5D-Calculadora-de-IMC-(Community)?node-id=11-196&t=zu6FtObSwaUtJYgH-0
 - Live Site URL: https://ivol1.github.io/Calculadora-IMC/
 
 ### Built with
