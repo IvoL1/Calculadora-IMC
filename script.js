@@ -15,7 +15,7 @@ function handleCalculate() {
     res.classList.add("error");
     return (res.innerHTML = "Preencha todos os campos!");
   } else {
-    const imc = (peso / altura ** 2).toFixed(2);
+    const imc = (peso / (altura / 100) ** 2).toFixed(2);
     const resultado = getClassification(imc);
     createElement(peso, altura, imc, resultado);
     btnCalcular.textContent = "Refazer";
